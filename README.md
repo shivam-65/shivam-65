@@ -1,4 +1,3 @@
-![logo](https://github.com/shivam-65/shivam-65/blob/main/Black%20Blue%20Geometric%20Tips%20Business%20Youtube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Shivam Padaliya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
